@@ -1,0 +1,6 @@
+<?xml version='1.0' standalone='yes' ?>
+<venta_diaria>
+	<nombre></nombre>
+	<direccion></direccion>
+	<telefono></telefono>
+</venta_diaria>

@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{99B27C4C-FC2F-4697-BB95-2380BF11DE89}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>La_Bodeguita.My.MyApplication</StartupObject>
+    <RootNamespace>La_Bodeguita</RootNamespace>
+    <AssemblyName>La Bodeguita</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <OptionExplicit>Off</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>home1.ico</ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>true</GenerateManifests>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>C:\Users\Lsc. Ever\Desktop\LG\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.1</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>La Bodeguita.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>La Bodeguita.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4E0EFBBFB574A58B129A22A09FB5BDADA69FFDBF</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LibPrintTicket, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>J:\LibPrintTicket\LibPrintTicket\Release\LibPrintTicket.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MySQLDriverCS, Version=3.0.1735.36021, Culture=neutral, PublicKeyToken=172f94dfb0faf263, processorArchitecture=x86">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQLDriverCS\dll\MySQLDriverCS.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos.vb" />
+    <Compile Include="frmagotados.Designer.vb">
+      <DependentUpon>frmagotados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmagotados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAltas_Proveedores.Designer.vb">
+      <DependentUpon>FrmAltas_Proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAltas_Proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlta_Articulos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlta_Articulos.Designer.vb">
+      <DependentUpon>FrmAlta_Articulos.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlta_Empleados.Designer.vb">
+      <DependentUpon>FrmAlta_Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlta_Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCat_Articulo.Designer.vb">
+      <DependentUpon>FrmCat_Articulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCat_Articulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCat_Empleados.Designer.vb">
+      <DependentUpon>FrmCat_Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCat_Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCat_proveedores.Designer.vb">
+      <DependentUpon>FrmCat_proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCat_proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfigura_server.Designer.vb">
+      <DependentUpon>FrmConfigura_server.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfigura_server.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConf_Impresora.Designer.vb">
+      <DependentUpon>FrmConf_Impresora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConf_Impresora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiario.Designer.vb">
+      <DependentUpon>FrmDiario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEnCaja.Designer.vb">
+      <DependentUpon>FrmEnCaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEnCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExistencias_bajas.Designer.vb">
+      <DependentUpon>FrmExistencias_bajas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExistencias_bajas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInventario_Granel.Designer.vb">
+      <DependentUpon>FrmInventario_Granel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInventario_Granel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInventario_Normal.Designer.vb">
+      <DependentUpon>FrmInventario_Normal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInventario_Normal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpago.Designer.vb">
+      <DependentUpon>frmpago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmpago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportes.Designer.vb">
+      <DependentUpon>FrmReportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRetiros.Designer.vb">
+      <DependentUpon>FrmRetiros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRetiros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVentas.Designer.vb">
+      <DependentUpon>FrmVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVenta_Granel.Designer.vb">
+      <DependentUpon>FrmVenta_Granel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVenta_Granel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVenta_Mayoreo.Designer.vb">
+      <DependentUpon>FrmVenta_Mayoreo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVenta_Mayoreo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.vb">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmagotados.resx">
+      <DependentUpon>frmagotados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAltas_Proveedores.resx">
+      <DependentUpon>FrmAltas_Proveedores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlta_Articulos.resx">
+      <DependentUpon>FrmAlta_Articulos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlta_Empleados.resx">
+      <DependentUpon>FrmAlta_Empleados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCat_Articulo.resx">
+      <DependentUpon>FrmCat_Articulo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCat_Empleados.resx">
+      <DependentUpon>FrmCat_Empleados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCat_proveedores.resx">
+      <DependentUpon>FrmCat_proveedores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfigura_server.resx">
+      <DependentUpon>FrmConfigura_server.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConf_Impresora.resx">
+      <DependentUpon>FrmConf_Impresora.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiario.resx">
+      <DependentUpon>FrmDiario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEnCaja.resx">
+      <DependentUpon>FrmEnCaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExistencias_bajas.resx">
+      <DependentUpon>FrmExistencias_bajas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInventario_Granel.resx">
+      <DependentUpon>FrmInventario_Granel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInventario_Normal.resx">
+      <DependentUpon>FrmInventario_Normal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpago.resx">
+      <DependentUpon>frmpago.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReportes.resx">
+      <DependentUpon>FrmReportes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRetiros.resx">
+      <DependentUpon>FrmRetiros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVentas.resx">
+      <DependentUpon>FrmVentas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVenta_Granel.resx">
+      <DependentUpon>FrmVenta_Granel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVenta_Mayoreo.resx">
+      <DependentUpon>FrmVenta_Mayoreo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="La Bodeguita_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="home1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

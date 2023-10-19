@@ -1,0 +1,319 @@
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.pdb
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.xml
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.Cache
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.manifest
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.application
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.TrustInfo.xml
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe.manifest
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.application
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCaja_dinero.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.fmrprueba_xml.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.manifest
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.application
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.pdb
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.xml
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\ResolveAssemblyReference.cache
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.fmrprueba_xml.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAviso.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCaja_dinero.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.Cache
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.TrustInfo.xml
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe.manifest
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.application
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.manifest
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.application
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.pdb
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.xml
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCaja_dinero.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.Cache
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.TrustInfo.xml
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe.manifest
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.application
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConf_Impresora.resources
+C:\Users\LSC Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.fmrAbout.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\ResolveAssemblyReference.cache
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.fmrAbout.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCaja_dinero.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConf_Impresora.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+D:\documentos\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.Cache
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.manifest
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.application
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.pdb
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.xml
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.fmrAbout.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCaja_dinero.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConf_Impresora.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.Cache
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.TrustInfo.xml
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe.manifest
+C:\Users\Lsc. Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.application
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbprojResolveAssemblyReference.cache
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCaja_dinero.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConf_Impresora.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.Cache
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.manifest
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.application
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.pdb
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.xml
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.TrustInfo.xml
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe.manifest
+E:\doscwin8\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.application
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.manifest
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.application
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.pdb
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.xml
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\bin\Debug\MetroFramework.dll
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\bin\Debug\MySQLDriverCS.dll
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConf_Impresora.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmEnCaja.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmRetiros.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmPresentacion.resources
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.Cache
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.TrustInfo.xml
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe.manifest
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.application
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb
+C:\Users\Lsc. Ever\Documents\Visual Studio 2013\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmDiario.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.AssemblyReference.cache
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.SuggestedBindingRedirects.cache
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConf_Impresora.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmDiario.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmEnCaja.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmRetiros.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.cache
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.CoreCompileInputs.cache
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.TrustInfo.xml
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.config
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.manifest
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.application
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.pdb
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.xml
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\bin\Debug\MetroFramework.dll
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe.manifest
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.application
+D:\datos_pc atlhon\docs\Visual Studio 2015\Projects\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.CopyComplete
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.config
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe.manifest
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.application
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.exe
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.pdb
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\bin\Debug\La Bodeguita.xml
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\bin\Debug\MetroFramework.dll
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.AssemblyReference.cache
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmagotados.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Proveedores.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAltas_Articulos.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmAlta_Empleados.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Articulo.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_Empleados.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmCat_proveedores.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConfigura_server.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmConf_Impresora.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmDiario.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmEnCaja.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmExistencias_bajas.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Granel.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmInventario_Normal.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmLogin.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.frmpago.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmReportes.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmRetiros.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVentas.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Granel.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmVenta_Mayoreo.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.Resources.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La_Bodeguita.FrmPrincipal.resources
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.GenerateResource.cache
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.CoreCompileInputs.cache
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.TrustInfo.xml
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe.manifest
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.application
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.vbproj.CopyComplete
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.exe
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.xml
+C:\Users\Ever\Documents\proyectos_vs\La Bodeguita\La Bodeguita\obj\Debug\La Bodeguita.pdb

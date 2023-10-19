@@ -1,0 +1,16 @@
+J:\LibPrintTicket\LibPrintTicket\TestLib\bin\Release\TestLib.exe
+J:\LibPrintTicket\LibPrintTicket\TestLib\bin\Release\TestLib.pdb
+J:\LibPrintTicket\LibPrintTicket\TestLib\bin\Release\LibPrintTicket.dll
+J:\LibPrintTicket\LibPrintTicket\TestLib\bin\Release\LibPrintTicket.pdb
+J:\LibPrintTicket\LibPrintTicket\TestLib\obj\Release\ResolveAssemblyReference.cache
+J:\LibPrintTicket\LibPrintTicket\TestLib\obj\Release\TestLib.exe
+J:\LibPrintTicket\LibPrintTicket\TestLib\obj\Release\TestLib.pdb
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\obj\Release\TestLib.exe
+C:\Users\Ever\Documents\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\obj\Release\TestLib.pdb
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\obj\Release\TestLib.exe
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\obj\Release\TestLib.pdb
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\bin\Release\TestLib.exe
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\bin\Release\TestLib.pdb
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\bin\Release\LibPrintTicket.dll
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\bin\Release\LibPrintTicket.pdb
+H:\EverCMP\docs\Visual Studio 2008\Projects\La Bodeguita\La Bodeguita\bin\Debug\LibPrintTicket\LibPrintTicket\TestLib\obj\Release\ResolveAssemblyReference.cache
